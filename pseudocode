@@ -1,0 +1,9 @@
+Arguement= function
+escalier fait d'espace et de #
+function(args = 4) = 
+	4 lines
+	4n line 4#
+	3n line 1 espace 3#
+
+boucle for each n>0 on affiche nspace args-n n# n
+puis on soustrait 1 de n  n-1
